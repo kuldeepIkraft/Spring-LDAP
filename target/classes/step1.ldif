@@ -1,0 +1,59 @@
+dn: dc=maxcrc,dc=com
+dc: maxcrc
+description: My wonderful company as much text as you want to place
+objectClass: dcObject
+objectClass: organization
+o: Maxcrc, Inc.
+
+dn: ou=people, dc=maxcrc,dc=com
+ou: people
+description: All people in organisation
+objectclass: organizationalunit
+
+dn: cn=Robert Smith,ou=people,dc=maxcrc,dc=com
+objectclass: inetOrgPerson
+cn: Robert Smith
+cn: Robert J Smith
+cn: bob  smith
+sn: smith
+uid: rjsmith
+userpassword: rJsmitH
+carlicense: HISCAR 123
+homephone: 555-111-2222
+mail: r.smith@example.com
+mail: rsmith@example.com
+mail: bob.smith@example.com
+description: swell guy
+ou: Human Resources
+
+dn: cn=Panji Pratomo,ou=people,dc=maxcrc,dc=com
+objectclass: inetOrgPerson
+cn: Panji Pratomo
+cn: P Pratomo
+cn: Panji P
+sn: panji
+uid: ppratomo
+userpassword: SomePassword
+carlicense: HISCAR 123
+homephone: 555-111-2222
+mail: panji.pratomo555@gmail.com
+mail: panji.pratomo555@mysamz.com
+mail: panji_pratomo555@yahoo.com
+description: football maniac
+ou: SOA
+
+dn: cn=Fahmi Satrio,ou=people,dc=maxcrc,dc=com
+objectclass: inetOrgPerson
+cn: Fahmi Satrio
+cn: F Satrio
+cn: Mi
+sn: fahmi
+uid: fsatrio
+userpassword: SomePassword
+carlicense: HISCAR 123
+homephone: 555-111-2222
+mail: f.satrio222@gmail.com
+mail: f.satrio222@mysamz.com
+mail: guest108222@fif.co.id
+description: tukang ngulik ga jelas
+ou: SOA

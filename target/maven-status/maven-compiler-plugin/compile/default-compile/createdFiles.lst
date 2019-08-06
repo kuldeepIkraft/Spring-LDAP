@@ -1,0 +1,10 @@
+com/memorynotfound/ldap/GroupRepository$1.class
+com/memorynotfound/ldap/Person.class
+com/memorynotfound/ldap/PersonRepository$1.class
+com/memorynotfound/ldap/GroupRepository.class
+com/memorynotfound/ldap/LdapConfig.class
+com/memorynotfound/ldap/GroupRepository$GroupContextMapper.class
+com/memorynotfound/ldap/PersonRepository.class
+com/memorynotfound/ldap/Group.class
+com/memorynotfound/ldap/PersonRepository$PersonContextMapper.class
+com/memorynotfound/ldap/Application.class
